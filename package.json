@@ -7,6 +7,8 @@
   "author": "Geon Lee",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.4",
     "global": "^4.3.2",
     "graphql-yoga": "^1.14.10",
     "node-fetch": "^2.1.2",
